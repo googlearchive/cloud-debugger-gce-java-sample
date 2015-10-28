@@ -161,7 +161,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-                <mainClass>App</mainClass>
+                <mainClass>com.example.hellosparky.App</mainClass>
             </manifest>
           </archive>
         </configuration>
