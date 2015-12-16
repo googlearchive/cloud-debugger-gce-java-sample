@@ -18,7 +18,7 @@ or using the command line:
 
     `$ gsutil mb <bucketName>`
 
-1. Connect with your [Cloud Source Repositorie](https://cloud.google.com/tools/cloud-repositories/docs/) using:
+1. Connect with your [Cloud Source Repository](https://cloud.google.com/tools/cloud-repositories/docs/) using:
 
     `$ gcloud beta source repos clone default <directoryName>`
 
@@ -31,7 +31,7 @@ or using the command line:
 
 ## Deploying
 
-1. Commit and push the project to the Source Repositorie
+1. Commit and push the project to the Source Repository:
 
     `$ git add *`<br />
     `$ git commit -m 'Initial Commit'`<br />
