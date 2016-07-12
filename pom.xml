@@ -62,7 +62,7 @@
         <version>1.4.0</version>
         <executions>
 <!-- 
-   gcloud preview app gen-repo-info-file -\-output-file=target/project-1.0-SNAPSHOT/WEB-INF/classes/source-context.json
+   gcloud app gen-repo-info-file -\-output-file=target/project-1.0-SNAPSHOT/WEB-INF/classes/source-context.json
  -->
           <execution>
             <phase>process-resources</phase>
