@@ -43,7 +43,7 @@ or using the command line:
 
 In addition to the normal compiling of classes and building of jars, we add to the **process-resources** phase the following:
 
-`gcloud preview app gen-repo-info-file -\-output-file=target/project-1.0-SNAPSHOT/WEB-INF/classes/source-context.json`
+`gcloud app gen-repo-info-file -\-output-file=target/project-1.0-SNAPSHOT/WEB-INF/classes/source-context.json`
     
 Which helps tell the Cloud Debugger which version of your source code to associate with this execution as you can have many.
 
