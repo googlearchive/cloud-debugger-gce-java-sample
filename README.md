@@ -1,3 +1,7 @@
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
+This project is no longer actively developed or maintained.
+
 # Cloud Debug for Compute Engine sample
 ### cloud-debugger-gce-java-sample
 This sample shows how to add the ability to debug your Java application running on [Google Compute Engine](https://cloud.google.com/compute/).  It is based on the [Spark Java](http://sparkjava.com/) - a tiny Sinatra inspired framework for creating web applications in Java 8.
